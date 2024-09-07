@@ -1,5 +1,4 @@
 import random
-
 def guess_number_game():
     # Set the range for the random number
     lower_bound = 1
